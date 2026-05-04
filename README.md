@@ -11,7 +11,7 @@ A lightweight, offline-first task management application built with Flutter. Des
 
 You do not need to build or compile anything to use this app. You can download the ready-to-install Android APK directly to your phone from the Releases page:
 
-**👉 [Download the latest Simple Local To-Do APK here](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/releases/latest)**
+**👉 [Download the latest Simple Local To-Do APK here](https://github.com/IMRIZZZ/to-do-list-app/releases/tag/v1.0.0)**
 
 *(Note: When installing, your phone may ask for permission to "Install from unknown sources" since it is not being downloaded from the Google Play Store. This is normal for open-source GitHub releases.)*
 
@@ -41,7 +41,7 @@ This application was built using:
 
 ## 🤝 Feedback & Issues
 
-If you find a bug or have a feature request, feel free to open an issue on the [issues page](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/issues). 
+If you find a bug or have a feature request, feel free to open an issue on the [issues page](https://github.com/IMRIZZZ/to-do-list-app). 
 
 ## 📄 License
 
